@@ -5,7 +5,7 @@ NAME="PowerPoint"
 FULL_NAME="Microsoft PowerPoint"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE"
+WIN_EXECUTABLE="C:\Program Files\Microsoft Office\Office15\POWERPNT.EXE"
 
 # GNOME categories
 CATEGORIES="WinApps;Office"
